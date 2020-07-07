@@ -20,4 +20,4 @@
 ##### 7、个人中心模块
 个人中心模块是管理员及用户都有的模块，通过本模块无论是管理员还是用户都可以对个人信息进行管理，并且可以进行维护。
 
-![](https://github.com/Joinbooks/management-master/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png?raw=true)  
+![](http://m.qpic.cn/psc?/V10TboWY1NvIfz/gZJkV0R4*Tt*yk3U.9dESnF.kC1jqTk6vWIhvhKPFURFLZyUkhzcvRzpGx75csdVWFFzqaaUf6H5sCsaXjyntA!!/b&bo=fQeRAwAAAAADB8o!&rf=viewer_4)  
